@@ -56,7 +56,7 @@ A secure Node.js REST API for image management with role-based access control, b
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/image-vault-api.git
+git clone https://github.com/akashgupta2233/image-vault-api.git
 cd image-vault-api
 ```
 
